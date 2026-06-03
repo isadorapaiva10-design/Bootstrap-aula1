@@ -1,0 +1,8 @@
+.carousel-inner{
+    height: 900px;
+    object-fit: cover;
+}
+.img-fluid{
+    width: 1000px;
+    height: 400px;
+}
